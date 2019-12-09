@@ -1,0 +1,19 @@
+{
+  "name": "mpm",
+  "version": "1.0.0",
+  "description": "Top Level MPM repo with README and links to most common starter packs and boosters. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ollynov/mpm.git"
+  },
+  "author": "YoshCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ollynov/mpm/issues"
+  },
+  "homepage": "https://github.com/Ollynov/mpm#readme"
+}
